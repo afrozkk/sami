@@ -1,0 +1,15 @@
+<html>
+    <body>
+        <title> registration</title>
+        <h1>enter name:</h1>
+        <input type=text name:name/>
+        <h2>enter the password:</h2>
+        <input type=text  name:email/>
+        <h2>enter the email:</h2>
+        <input type=text name:phonenumber/>
+        <h2>enter the password:</h2>
+        <input type=text name:password/>
+        <button onclick submit></button>submit
+        <button onclick reset></button>reset
+        </body>
+        </html>
